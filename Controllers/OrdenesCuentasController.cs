@@ -10,6 +10,7 @@ using CRUD__PPI.Models;
 using System.Diagnostics.Metrics;
 using System.IO;
 using Humanizer;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace CRUD__PPI.Controllers
 {
@@ -17,24 +18,12 @@ namespace CRUD__PPI.Controllers
     [ApiController]
     public class OrdenesCuentasController : ControllerBase
     {
-        private static readonly List<Active> Actives = new List<Active>
-        {
-           new Active { id= 1, ticker= "AAPL",nombre= "Apple",tipoActivo= 1,precioUnitario= 177.97M },
-           new Active { id= 2,ticker= "GOOGL",nombre= "Alphabet Inc",tipoActivo= 1,precioUnitario= 138.21M},
-           new Active { id= 3,ticker= "MSFT",nombre= "Microsoft",tipoActivo= 1,precioUnitario= 329.04M},
-           new Active { id= 4,ticker= "KO",nombre= "Coca Cola",tipoActivo= 1,precioUnitario= 58.3M},
-           new Active { id= 5,ticker= "WMT",nombre= "Walmart",tipoActivo= 1,precioUnitario= 163.42M},
-           new Active { id= 6,ticker= "AL30",nombre= "BONOS ARGENTINA USD 2030 L.A",tipoActivo= 2,precioUnitario= 307.4M},
-           new Active { id= 7,ticker= "GD30",nombre= "Bonos Globales Argentina USD Step Up 2030",tipoActivo= 2,precioUnitario= 336.1M},
-           new Active { id= 8,ticker= "Delta.Pesos",nombre= "Delta Pesos Clase A",tipoActivo= 3,precioUnitario= 0.0181M},
-           new Active { id= 9,ticker= "Fima.Premium",nombre= "Fima Premium Clase A",tipoActivo= 3,precioUnitario= 0.0317M},
-        };
 
         private readonly OrdenesCuentaBDContext _context;
 
         public OrdenesCuentasController(OrdenesCuentaBDContext context)
         {
-            _context = context;
+            _context = context;      
         }
 
         // GET: api/OrdenesCuentas
@@ -118,7 +107,7 @@ namespace CRUD__PPI.Controllers
             var parcialAmount = 0M;
             var totalAmount = 0M;
             var commisions = 0M;
-            var active = Actives.Find(x => x.ticker.Contains(addOrdenDto.Ticker));
+            var active = _context.Actives.Where(c => c.ticker == addOrdenDto.Ticker).FirstOrDefault();
        
             switch (active?.tipoActivo)
             {

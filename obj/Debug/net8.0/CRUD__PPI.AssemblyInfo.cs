@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUD__PPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55da93a5c9b3ed56058aa1d7b2dcef69b9319b88")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5ad36df421e523a9bf404b4661d4383ada5b0ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUD__PPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUD__PPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
