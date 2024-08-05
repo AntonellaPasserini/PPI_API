@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|c:\\users\\anto\\documents\\visualstudios\\ppi_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|c:\\users\\anto\\documents\\visualstudios\\ppi_api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|c:\\users\\anto\\documents\\visualstudios\\ppi_api\\controllers\\ordenescuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|solutionrelative:controllers\\ordenescuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|c:\\users\\anto\\documents\\visualstudios\\ppi_api\\models\\active.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|solutionrelative:models\\active.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|c:\\users\\anto\\documents\\visualstudios\\ppi_api\\context\\ordenescuentabdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|solutionrelative:context\\ordenescuentabdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|c:\\users\\anto\\documents\\visualstudios\\ppi_api\\models\\ordenescuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|solutionrelative:models\\ordenescuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|c:\\users\\anto\\documents\\visualstudios\\ppi_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|c:\\users\\anto\\documents\\visualstudios\\ppi_api\\migrations\\ordenescuentabdcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|solutionrelative:migrations\\ordenescuentabdcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|c:\\users\\anto\\documents\\visualstudios\\ppi_api\\models\\addordendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|solutionrelative:models\\addordendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|c:\\users\\anto\\documents\\visualstudios\\ppi_api\\migrations\\20240802181603_ppi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|solutionrelative:migrations\\20240802181603_ppi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|c:\\users\\anto\\documents\\visualstudios\\ppi_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|c:\\users\\anto\\documents\\visualstudios\\ppi_api\\migrations\\20240802181603_ppi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|solutionrelative:migrations\\20240802181603_ppi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|c:\\users\\anto\\documents\\visualstudios\\ppi_api\\crud__ppi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D42A847E-DDC2-4310-8BD7-00AF6DE7A22C}|CRUD__PPI.csproj|solutionrelative:crud__ppi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T04:20:11.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-05T04:16:02.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Active.cs",
+              "DocumentMoniker": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\Models\\Active.cs",
+              "RelativeDocumentMoniker": "Models\\Active.cs",
+              "ToolTip": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\Models\\Active.cs",
+              "RelativeToolTip": "Models\\Active.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T20:20:35.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdenesCuentasController.cs",
+              "DocumentMoniker": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\Controllers\\OrdenesCuentasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdenesCuentasController.cs",
+              "ToolTip": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\Controllers\\OrdenesCuentasController.cs",
+              "RelativeToolTip": "Controllers\\OrdenesCuentasController.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAUwIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:27:55.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdenesCuentaBDContext.cs",
+              "DocumentMoniker": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\Context\\OrdenesCuentaBDContext.cs",
+              "RelativeDocumentMoniker": "Context\\OrdenesCuentaBDContext.cs",
+              "ToolTip": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\Context\\OrdenesCuentaBDContext.cs",
+              "RelativeToolTip": "Context\\OrdenesCuentaBDContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:41:04.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdenesCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\Models\\OrdenesCuenta.cs",
+              "RelativeDocumentMoniker": "Models\\OrdenesCuenta.cs",
+              "ToolTip": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\Models\\OrdenesCuenta.cs",
+              "RelativeToolTip": "Models\\OrdenesCuenta.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:42:14.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:25:00.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdenesCuentaBDContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\Migrations\\OrdenesCuentaBDContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\OrdenesCuentaBDContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\Migrations\\OrdenesCuentaBDContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\OrdenesCuentaBDContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:24:54.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddOrdenDto.cs",
+              "DocumentMoniker": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\Models\\AddOrdenDto.cs",
+              "RelativeDocumentMoniker": "Models\\AddOrdenDto.cs",
+              "ToolTip": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\Models\\AddOrdenDto.cs",
+              "RelativeToolTip": "Models\\AddOrdenDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T19:37:04.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240802181603_PPI.cs",
+              "DocumentMoniker": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\Migrations\\20240802181603_PPI.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240802181603_PPI.cs",
+              "ToolTip": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\Migrations\\20240802181603_PPI.cs",
+              "RelativeToolTip": "Migrations\\20240802181603_PPI.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:16:03.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T17:52:01.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240802181603_PPI.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\Migrations\\20240802181603_PPI.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240802181603_PPI.Designer.cs",
+              "ToolTip": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\Migrations\\20240802181603_PPI.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240802181603_PPI.Designer.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:25:19.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CRUD__PPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\CRUD__PPI.csproj",
+              "RelativeDocumentMoniker": "CRUD__PPI.csproj",
+              "ToolTip": "C:\\Users\\Anto\\Documents\\VisualStudios\\PPI_API\\CRUD__PPI.csproj",
+              "RelativeToolTip": "CRUD__PPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-02T16:31:13.497Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
